@@ -1,0 +1,16 @@
+category_id,category,sub_category
+1,Cash Withdrawal,ATM cash withdrawal
+2,Education,Education fees
+3,Food & Dining,Food delivery
+4,Investments/FD,Fixed deposit transfer
+5,Investments/FD,Interest income
+6,Miscellaneous,Bank charges
+7,Miscellaneous,Uncategorized
+8,Refunds,Refund/Cashback
+9,Shopping,E-commerce
+10,Subscriptions,Streaming/App subscription
+11,Transfers,Incoming transfer
+12,Transfers,Peer/self transfer
+13,Transfers,Self/peer transfer
+14,Travel,Metro/Rail
+15,Utilities,Telecom/Bills
