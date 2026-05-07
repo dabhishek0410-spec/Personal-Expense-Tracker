@@ -25,13 +25,12 @@ Convert a raw bank statement PDF into a structured personal finance analytics wo
 ```text
 personal-expense-analytics/
   data/
-    raw/
     processed/
   notebooks/
   scripts/
   sql/
   powerbi/
-  dashboard/
+  index.html
   README.md
   requirements.txt
 ```
