@@ -1,0 +1,57 @@
+Total Income =
+SUM ( transactions[deposit_amount] )
+
+Total Expenses =
+SUM ( transactions[withdrawal_amount] )
+
+Net Savings =
+[Total Income] - [Total Expenses]
+
+Savings Rate =
+DIVIDE ( [Net Savings], [Total Income] )
+
+Average Monthly Expense =
+AVERAGEX (
+    VALUES ( transactions[month_year] ),
+    [Total Expenses]
+)
+
+Recurring Expense =
+CALCULATE (
+    [Total Expenses],
+    transactions[is_recurring] = 1
+)
+
+Cash Withdrawal =
+CALCULATE (
+    [Total Expenses],
+    transactions[category] = "Cash Withdrawal"
+)
+
+Average Daily Spend =
+AVERAGEX (
+    VALUES ( transactions[transaction_date] ),
+    CALCULATE ( [Total Expenses] )
+)
+
+MoM Expense Growth % =
+VAR CurrentExpense = [Total Expenses]
+VAR PreviousExpense =
+    CALCULATE (
+        [Total Expenses],
+        DATEADD ( transactions[transaction_date], -1, MONTH )
+    )
+RETURN
+    DIVIDE ( CurrentExpense - PreviousExpense, PreviousExpense )
+
+Debit Transaction Count =
+CALCULATE (
+    COUNTROWS ( transactions ),
+    transactions[withdrawal_amount] > 0
+)
+
+Credit Transaction Count =
+CALCULATE (
+    COUNTROWS ( transactions ),
+    transactions[deposit_amount] > 0
+)

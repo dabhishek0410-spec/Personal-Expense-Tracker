@@ -1,0 +1,432 @@
+merchant,category,sub_category,transaction_count,total_income,total_spend,avg_transaction_amount,first_transaction_date,last_transaction_date,net_amount
+D Abhishek,Transfers,Self/peer transfer,205,0.0,208970.06,1019.37,2025-07-04,2026-03-30,-208970.06
+ATM Cash Withdrawal,Cash Withdrawal,ATM cash withdrawal,12,0.0,87700.0,7308.33,2025-04-01,2026-03-02,-87700.0
+D.Abhishek1010,Transfers,Self/peer transfer,72,0.0,65983.43,916.44,2025-04-01,2025-07-03,-65983.43
+Fixed Deposit,Investments/FD,Fixed deposit transfer,2,0.0,50000.0,25000.0,2025-06-07,2025-06-07,-50000.0
+Mr D Abhis,Transfers,Self/peer transfer,67,0.0,46723.85,697.37,2025-07-04,2026-03-14,-46723.85
+Zomato,Food & Dining,Food delivery,76,0.0,31433.21,413.59,2025-04-01,2026-03-22,-31433.21
+Amazon,Shopping,E-commerce,19,0.0,21989.12,1157.32,2025-04-20,2026-03-02,-21989.12
+Swiggy,Food & Dining,Food delivery,48,0.0,16638.0,346.62,2025-04-05,2026-03-31,-16638.0
+Abhishek401 Slc,Transfers,Self/peer transfer,21,0.0,15165.05,722.15,2025-04-01,2025-06-05,-15165.05
+Pradosh Ku,Transfers,Self/peer transfer,7,0.0,14489.21,2069.89,2025-07-03,2025-08-23,-14489.21
+Mps,Miscellaneous,Uncategorized,3,0.0,11990.0,3996.67,2025-05-22,2025-05-22,-11990.0
+Indian Railways,Travel,Metro/Rail,5,0.0,11398.0,2279.6,2025-05-13,2026-03-01,-11398.0
+Tapan Daga,Transfers,Self/peer transfer,1,0.0,10000.0,10000.0,2025-08-01,2025-08-01,-10000.0
+Westside.426600,Transfers,Self/peer transfer,1,0.0,9500.0,9500.0,2025-05-07,2025-05-07,-9500.0
+Sukriti Du,Transfers,Self/peer transfer,1,0.0,9200.0,9200.0,2026-02-05,2026-02-05,-9200.0
+Airtel,Utilities,Telecom/Bills,16,0.0,9090.82,568.18,2025-04-20,2026-03-24,-9090.82
+Slice,Transfers,Peer/self transfer,14,0.0,8957.8,639.84,2025-07-04,2026-03-14,-8957.8
+Ajay Wagh,Transfers,Self/peer transfer,1,0.0,8800.0,8800.0,2026-01-02,2026-01-02,-8800.0
+Netflix,Subscriptions,Streaming/App subscription,12,0.0,7788.0,649.0,2025-04-01,2026-03-01,-7788.0
+Zepto,Shopping,E-commerce,19,0.0,7165.95,377.16,2025-04-20,2026-03-27,-7165.95
+Shoppers S,Transfers,Self/peer transfer,1,0.0,7080.0,7080.0,2026-02-13,2026-02-13,-7080.0
+Dailyobjects.Pa,Shopping,E-commerce,1,0.0,5999.0,5999.0,2025-04-23,2025-04-23,-5999.0
+Subid Kuma,Transfers,Self/peer transfer,8,0.0,5728.0,716.0,2025-08-29,2026-03-30,-5728.0
+Www Dailyo,Shopping,E-commerce,2,0.0,5497.0,2748.5,2026-03-21,2026-03-21,-5497.0
+Anita Maha,Transfers,Self/peer transfer,3,0.0,5270.0,1756.67,2025-08-05,2026-01-19,-5270.0
+Auto Ways,Transfers,Self/peer transfer,3,0.0,5210.0,1736.67,2025-12-16,2025-12-23,-5210.0
+Indrajeets,Transfers,Peer/self transfer,1,0.0,5000.0,5000.0,2025-08-19,2025-08-19,-5000.0
+iQuanta,Education,Education fees,1,0.0,4999.0,4999.0,2025-04-03,2025-04-03,-4999.0
+Wrogn,Transfers,Self/peer transfer,1,0.0,4712.56,4712.56,2025-11-21,2025-11-21,-4712.56
+Dipen Aror,Transfers,Self/peer transfer,2,0.0,3927.0,1963.5,2026-02-28,2026-02-28,-3927.0
+Sanjay Kum,Transfers,Self/peer transfer,5,0.0,3900.0,780.0,2025-08-01,2026-02-01,-3900.0
+Kosherorganicsp,Shopping,E-commerce,2,0.0,3837.43,1918.72,2025-04-27,2025-06-10,-3837.43
+Delhi Metro,Travel,Metro/Rail,36,0.0,3760.0,104.44,2025-04-01,2026-03-30,-3760.0
+Hemraj Jew,Transfers,Self/peer transfer,1,0.0,3700.0,3700.0,2025-12-17,2025-12-17,-3700.0
+Paytm.D14587780,Transfers,Self/peer transfer,1,0.0,3445.0,3445.0,2025-05-12,2025-05-12,-3445.0
+Pratyaya E,Shopping,E-commerce,1,0.0,3396.6,3396.6,2025-11-16,2025-11-16,-3396.6
+Anil Kumar,Transfers,Self/peer transfer,45,0.0,2628.0,58.4,2025-08-14,2026-03-31,-2628.0
+Iimk,Transfers,Peer/self transfer,1,0.0,2600.0,2600.0,2025-08-19,2025-08-19,-2600.0
+BookMyShow,Transfers,Peer/self transfer,1,0.0,2527.84,2527.84,2026-03-19,2026-03-19,-2527.84
+Radhamani,Transfers,Peer/self transfer,1,0.0,2383.55,2383.55,2025-11-20,2025-11-20,-2383.55
+Radharaman,Transfers,Self/peer transfer,26,0.0,2300.0,88.46,2025-06-28,2026-01-24,-2300.0
+Priyanka P,Transfers,Self/peer transfer,4,0.0,2256.0,564.0,2025-08-12,2026-02-19,-2256.0
+Repayments Slc,Transfers,Peer/self transfer,2,0.0,2048.0,1024.0,2025-06-19,2025-06-27,-2048.0
+Www Myntra,Shopping,E-commerce,1,0.0,2022.0,2022.0,2025-11-30,2025-11-30,-2022.0
+Preeti.401 Axl,Transfers,Self/peer transfer,1,0.0,2000.0,2000.0,2025-06-20,2025-06-20,-2000.0
+Ms Vishal,Transfers,Self/peer transfer,1,0.0,1987.0,1987.0,2025-12-16,2025-12-16,-1987.0
+Repaymentsnesfb,Transfers,Peer/self transfer,2,0.0,1937.04,968.52,2025-04-16,2025-06-19,-1937.04
+Absolut Pe,Transfers,Peer/self transfer,1,0.0,1836.54,1836.54,2026-02-07,2026-02-07,-1836.54
+Md Hamid,Transfers,Self/peer transfer,2,0.0,1700.0,850.0,2025-12-16,2025-12-23,-1700.0
+Ashu,Transfers,Self/peer transfer,13,0.0,1605.0,123.46,2025-08-14,2026-02-27,-1605.0
+Sambitkumardas1,Transfers,Self/peer transfer,1,0.0,1593.0,1593.0,2025-06-19,2025-06-19,-1593.0
+Moti Nagar,Transfers,Self/peer transfer,1,0.0,1550.0,1550.0,2025-10-13,2025-10-13,-1550.0
+Medplus,Transfers,Peer/self transfer,10,0.0,1525.63,152.56,2025-07-09,2026-01-02,-1525.63
+Floractive,Transfers,Peer/self transfer,1,0.0,1487.0,1487.0,2025-09-30,2025-09-30,-1487.0
+District M,Transfers,Peer/self transfer,3,0.0,1481.7,493.9,2025-10-12,2025-10-13,-1481.7
+Indian Chi,Transfers,Self/peer transfer,3,0.0,1376.0,458.67,2026-01-01,2026-01-22,-1376.0
+Sr413440B2Deef6,Transfers,Self/peer transfer,1,0.0,1340.0,1340.0,2025-04-20,2025-04-20,-1340.0
+Bank Charges,Miscellaneous,Bank charges,7,0.0,1291.41,184.49,2025-05-17,2026-03-24,-1291.41
+House Of S,Transfers,Self/peer transfer,1,0.0,1254.0,1254.0,2025-12-31,2025-12-31,-1254.0
+Taco Bell,Food & Dining,Food delivery,2,0.0,1248.0,624.0,2025-04-15,2025-09-19,-1248.0
+Bombay Mus,Transfers,Peer/self transfer,1,0.0,1188.3,1188.3,2025-12-19,2025-12-19,-1188.3
+Inox,Transfers,Peer/self transfer,1,0.0,1152.16,1152.16,2025-12-13,2025-12-13,-1152.16
+9910289122 Ybl,Transfers,Self/peer transfer,3,0.0,1100.0,366.67,2025-04-02,2025-07-01,-1100.0
+Rawbare900888.R,Shopping,E-commerce,1,0.0,1099.0,1099.0,2025-04-27,2025-04-27,-1099.0
+Magnet Clu,Transfers,Peer/self transfer,1,0.0,1091.55,1091.55,2025-11-28,2025-11-28,-1091.55
+Ikbal Sing,Transfers,Self/peer transfer,3,0.0,1090.0,363.33,2025-11-19,2026-02-27,-1090.0
+Ram Uday Y,Transfers,Self/peer transfer,4,0.0,1020.0,255.0,2025-08-28,2026-03-02,-1020.0
+Indiragandhi.Rz,Education,Education fees,1,0.0,1000.0,1000.0,2025-04-20,2025-04-20,-1000.0
+Shubhra Sa,Transfers,Self/peer transfer,1,0.0,1000.0,1000.0,2025-08-09,2025-08-09,-1000.0
+Odisha Sta,Transfers,Self/peer transfer,1,0.0,1000.0,1000.0,2025-12-29,2025-12-29,-1000.0
+Shrinivas,Transfers,Self/peer transfer,1,0.0,999.0,999.0,2026-01-18,2026-01-18,-999.0
+Bombai Hou,Transfers,Self/peer transfer,1,0.0,992.0,992.0,2025-08-09,2025-08-09,-992.0
+Apple Services,Subscriptions,Streaming/App subscription,2,0.0,959.0,479.5,2025-04-15,2026-01-29,-959.0
+0794591A0047016,Transfers,Self/peer transfer,1,0.0,958.0,958.0,2025-04-07,2025-04-07,-958.0
+Bharatpe9077201,Transfers,Peer/self transfer,1,0.0,900.0,900.0,2025-05-18,2025-05-18,-900.0
+Mr Jyotipr,Transfers,Self/peer transfer,2,0.0,900.0,450.0,2026-03-13,2026-03-13,-900.0
+Paytmqr6Bsokt P,Transfers,Self/peer transfer,1,0.0,900.0,900.0,2025-05-17,2025-05-17,-900.0
+Drusti Aut,Transfers,Self/peer transfer,4,0.0,900.0,225.0,2025-07-09,2026-01-03,-900.0
+Jeevan Dee,Transfers,Peer/self transfer,3,0.0,863.0,287.67,2025-08-22,2026-03-27,-863.0
+Bpcl Ufill,Transfers,Self/peer transfer,2,0.0,859.0,429.5,2025-07-04,2025-07-07,-859.0
+Myfrido,Transfers,Peer/self transfer,1,0.0,854.05,854.05,2025-08-18,2025-08-18,-854.05
+Nutrispray,Transfers,Peer/self transfer,1,0.0,854.05,854.05,2025-11-29,2025-11-29,-854.05
+Bikash Kum,Transfers,Self/peer transfer,1,0.0,850.0,850.0,2026-01-21,2026-01-21,-850.0
+Maa Siddha,Transfers,Self/peer transfer,3,0.0,837.0,279.0,2025-12-18,2026-01-24,-837.0
+Q966069018 Ybl,Transfers,Self/peer transfer,10,0.0,830.0,83.0,2025-06-11,2025-07-03,-830.0
+Dannys Fri,Transfers,Self/peer transfer,3,0.0,789.0,263.0,2025-11-06,2026-02-16,-789.0
+Paytmqr64Lxb6 P,Transfers,Self/peer transfer,2,0.0,750.0,375.0,2025-06-18,2025-06-25,-750.0
+Deepak,Transfers,Self/peer transfer,1,0.0,750.0,750.0,2025-08-11,2025-08-11,-750.0
+Kunja Biha,Transfers,Self/peer transfer,2,0.0,710.88,355.44,2025-08-05,2026-01-02,-710.88
+Paytm.D12284098,Transfers,Self/peer transfer,1,0.0,701.0,701.0,2025-05-31,2025-05-31,-701.0
+Mohd Irfan,Transfers,Self/peer transfer,1,0.0,700.0,700.0,2026-02-13,2026-02-13,-700.0
+9337887120 Ybl,Transfers,Self/peer transfer,1,0.0,700.0,700.0,2025-06-30,2025-06-30,-700.0
+Rohit Raja,Transfers,Self/peer transfer,1,0.0,700.0,700.0,2025-12-31,2025-12-31,-700.0
+Vyapar.17209863,Transfers,Self/peer transfer,1,0.0,675.0,675.0,2025-06-26,2025-06-26,-675.0
+Filmy Food,Food & Dining,Food delivery,2,0.0,670.0,335.0,2026-01-12,2026-01-29,-670.0
+Nakul Kuma,Transfers,Self/peer transfer,4,0.0,660.0,165.0,2025-11-15,2026-02-07,-660.0
+Abdul Mora,Transfers,Self/peer transfer,4,0.0,660.0,165.0,2026-02-19,2026-03-21,-660.0
+Q805863097 Ybl,Transfers,Self/peer transfer,9,0.0,650.0,72.22,2025-04-09,2025-06-01,-650.0
+Khan Chach,Transfers,Self/peer transfer,1,0.0,628.0,628.0,2026-03-22,2026-03-22,-628.0
+Khan Marke,Transfers,Self/peer transfer,1,0.0,628.0,628.0,2026-03-19,2026-03-19,-628.0
+Delhidomesticai,Transfers,Peer/self transfer,1,0.0,618.46,618.46,2025-06-02,2025-06-02,-618.46
+Ahmad Huss,Transfers,Self/peer transfer,2,0.0,610.0,305.0,2025-11-06,2025-11-29,-610.0
+Mazid Ali,Transfers,Self/peer transfer,1,0.0,603.0,603.0,2026-03-27,2026-03-27,-603.0
+Paytm.S1Hbnnm P,Transfers,Self/peer transfer,1,0.0,600.0,600.0,2025-06-29,2025-06-29,-600.0
+Mfd Shawar,Transfers,Self/peer transfer,5,0.0,600.0,120.0,2025-12-21,2026-01-16,-600.0
+IGNOU,Education,Education fees,1,0.0,600.0,600.0,2026-02-10,2026-02-10,-600.0
+Priyanka P,Transfers,Peer/self transfer,2,0.0,595.0,297.5,2025-08-22,2025-10-13,-595.0
+Tunday Kab,Transfers,Self/peer transfer,1,0.0,586.0,586.0,2025-10-15,2025-10-15,-586.0
+Rohit Sams,Transfers,Self/peer transfer,1,0.0,578.0,578.0,2026-02-13,2026-02-13,-578.0
+Rohitsamson84 O,Transfers,Self/peer transfer,1,0.0,578.0,578.0,2025-04-07,2025-04-07,-578.0
+Hotel Giri,Transfers,Self/peer transfer,2,0.0,570.0,285.0,2025-07-06,2025-07-09,-570.0
+Aniket Sha,Transfers,Self/peer transfer,2,0.0,568.0,284.0,2025-07-25,2025-07-25,-568.0
+Paytmqr1Kftg1Ht,Transfers,Self/peer transfer,1,0.0,561.0,561.0,2025-06-10,2025-06-10,-561.0
+K079 Kfc L,Food & Dining,Food delivery,1,0.0,554.4,554.4,2025-10-14,2025-10-14,-554.4
+New Kcm Me,Transfers,Self/peer transfer,1,0.0,552.0,552.0,2025-07-08,2025-07-08,-552.0
+Rizwana Ka,Transfers,Self/peer transfer,1,0.0,550.0,550.0,2025-09-29,2025-09-29,-550.0
+Chhotray F,Transfers,Self/peer transfer,2,0.0,550.0,275.0,2025-12-24,2026-01-07,-550.0
+Geet Govin,Transfers,Self/peer transfer,1,0.0,546.0,546.0,2025-12-29,2025-12-29,-546.0
+Paytmqr5Bhihp P,Transfers,Self/peer transfer,1,0.0,540.0,540.0,2025-05-25,2025-05-25,-540.0
+Preeti.401 Ybl,Transfers,Self/peer transfer,2,0.0,527.0,263.5,2025-05-23,2025-06-22,-527.0
+Healing Po,Transfers,Self/peer transfer,2,0.0,510.0,255.0,2025-07-09,2026-01-15,-510.0
+Mcdonalds.41615,Food & Dining,Food delivery,1,0.0,505.06,505.06,2025-04-13,2025-04-13,-505.06
+Mr Tipu Kh,Transfers,Self/peer transfer,2,0.0,500.0,250.0,2025-12-17,2025-12-23,-500.0
+Paytm-82225276,Transfers,Self/peer transfer,1,0.0,491.45,491.45,2025-05-14,2025-05-14,-491.45
+Teena,Transfers,Self/peer transfer,4,0.0,480.0,120.0,2026-02-20,2026-03-26,-480.0
+Dominos Pi,Transfers,Self/peer transfer,1,0.0,475.65,475.65,2026-02-21,2026-02-21,-475.65
+S Trimurth,Transfers,Self/peer transfer,1,0.0,460.0,460.0,2025-11-04,2025-11-04,-460.0
+Krishna Tr,Transfers,Self/peer transfer,2,0.0,456.0,228.0,2026-03-17,2026-03-27,-456.0
+Sodexo Yoo,Transfers,Self/peer transfer,4,0.0,455.0,113.75,2026-01-08,2026-01-10,-455.0
+Jawnex,Transfers,Peer/self transfer,1,0.0,449.1,449.1,2026-02-03,2026-02-03,-449.1
+Usha Devi,Utilities,Telecom/Bills,1,0.0,440.0,440.0,2026-02-04,2026-02-04,-440.0
+Ikjot Sing,Transfers,Self/peer transfer,2,0.0,440.0,220.0,2025-11-27,2025-11-27,-440.0
+Lacafeothe,Food & Dining,Food delivery,1,0.0,439.0,439.0,2026-01-14,2026-01-14,-439.0
+Satyaranja,Transfers,Peer/self transfer,2,0.0,430.0,215.0,2026-01-02,2026-01-04,-430.0
+Qureshis D,Transfers,Self/peer transfer,1,0.0,420.0,420.0,2025-11-23,2025-11-23,-420.0
+Paytmqr6B7Imu P,Transfers,Self/peer transfer,2,0.0,420.0,210.0,2025-06-03,2025-06-03,-420.0
+Sk Sanwar,Transfers,Self/peer transfer,1,0.0,420.0,420.0,2025-12-15,2025-12-15,-420.0
+Mujahir Al,Transfers,Self/peer transfer,2,0.0,410.0,205.0,2025-10-07,2025-10-31,-410.0
+Anamar Tec,Transfers,Peer/self transfer,18,0.0,408.24,22.68,2025-09-20,2026-02-27,-408.24
+Medplusodishaop,Transfers,Peer/self transfer,3,0.0,402.9,134.3,2025-06-10,2025-06-22,-402.9
+Sartaj,Transfers,Self/peer transfer,1,0.0,400.0,400.0,2025-09-08,2025-09-08,-400.0
+Paytmqr5W441T P,Transfers,Self/peer transfer,1,0.0,400.0,400.0,2025-05-31,2025-05-31,-400.0
+Debashish,Transfers,Self/peer transfer,2,0.0,400.0,200.0,2025-07-31,2025-12-10,-400.0
+Connaught,Transfers,Self/peer transfer,1,0.0,390.6,390.6,2026-02-13,2026-02-13,-390.6
+Hsb Janpat,Transfers,Self/peer transfer,1,0.0,385.0,385.0,2025-09-27,2025-09-27,-385.0
+Srishti Mo,Transfers,Self/peer transfer,1,0.0,375.5,375.5,2025-12-25,2025-12-25,-375.5
+Sr84C31Fff6775C,Transfers,Self/peer transfer,1,0.0,372.0,372.0,2025-04-01,2025-04-01,-372.0
+956061182 Ibl,Transfers,Self/peer transfer,1,0.0,365.02,365.02,2025-06-01,2025-06-01,-365.02
+Mother Dai,Transfers,Self/peer transfer,3,0.0,360.0,120.0,2025-11-18,2025-11-25,-360.0
+Azam,Transfers,Self/peer transfer,1,0.0,360.0,360.0,2025-09-12,2025-09-12,-360.0
+Burger Sin,Food & Dining,Food delivery,1,0.0,360.0,360.0,2025-11-30,2025-11-30,-360.0
+Sriyanka M,Transfers,Self/peer transfer,1,0.0,355.0,355.0,2026-01-01,2026-01-01,-355.0
+8908508600 Okbi,Transfers,Self/peer transfer,4,0.0,355.0,88.75,2025-06-04,2025-06-30,-355.0
+Ganesh Beh,Transfers,Self/peer transfer,1,0.0,350.0,350.0,2026-03-13,2026-03-13,-350.0
+Jeevan Dee,Transfers,Self/peer transfer,1,0.0,350.0,350.0,2025-09-12,2025-09-12,-350.0
+Tenzing Ts,Transfers,Self/peer transfer,1,0.0,350.0,350.0,2026-03-19,2026-03-19,-350.0
+Q503858957 Ybl,Transfers,Self/peer transfer,7,0.0,340.0,48.57,2025-06-10,2025-07-02,-340.0
+Kartik Som,Transfers,Self/peer transfer,2,0.0,339.0,169.5,2025-09-23,2026-02-12,-339.0
+Sana Fatim,Transfers,Self/peer transfer,1,0.0,330.0,330.0,2025-09-15,2025-09-15,-330.0
+Q350468952 Ybl,Transfers,Self/peer transfer,6,0.0,330.0,55.0,2025-06-02,2025-06-15,-330.0
+Paytmqr5Vj92V P,Transfers,Self/peer transfer,3,0.0,330.0,110.0,2025-06-13,2025-07-02,-330.0
+Cosmofeed,Transfers,Peer/self transfer,1,0.0,329.0,329.0,2025-12-25,2025-12-25,-329.0
+The Rajvad,Transfers,Self/peer transfer,5,0.0,328.0,65.6,2025-07-07,2026-01-16,-328.0
+Mr Sk Mehf,Transfers,Self/peer transfer,1,0.0,320.0,320.0,2025-07-07,2025-07-07,-320.0
+Keventers,Transfers,Self/peer transfer,1,0.0,320.0,320.0,2025-09-19,2025-09-19,-320.0
+Paytmqr6Bmiky P,Transfers,Self/peer transfer,4,0.0,320.0,80.0,2025-06-02,2025-06-21,-320.0
+Lila Sharm,Transfers,Self/peer transfer,2,0.0,316.0,158.0,2025-12-27,2026-01-01,-316.0
+Airindiaexpress,Transfers,Peer/self transfer,1,0.0,313.0,313.0,2025-05-31,2025-05-31,-313.0
+Adda Cafe,Food & Dining,Food delivery,1,0.0,313.0,313.0,2025-08-05,2025-08-05,-313.0
+Gyanendra,Transfers,Self/peer transfer,1,0.0,310.0,310.0,2025-12-15,2025-12-15,-310.0
+Q472326549 Ybl,Transfers,Self/peer transfer,6,0.0,310.0,51.67,2025-06-03,2025-06-26,-310.0
+Q170263895 Ybl,Transfers,Self/peer transfer,1,0.0,300.0,300.0,2025-05-21,2025-05-21,-300.0
+Shaikh Raj,Transfers,Self/peer transfer,2,0.0,300.0,150.0,2025-07-04,2025-07-04,-300.0
+Eazypay.0000048,Transfers,Self/peer transfer,1,0.0,300.0,300.0,2025-06-16,2025-06-16,-300.0
+Sr15Df3Da98Eda2,Transfers,Self/peer transfer,1,0.0,300.0,300.0,2025-06-11,2025-06-11,-300.0
+Kolkata Ho,Transfers,Self/peer transfer,1,0.0,300.0,300.0,2025-09-27,2025-09-27,-300.0
+Paytmqr1Faxj73G,Transfers,Self/peer transfer,1,0.0,300.0,300.0,2025-05-21,2025-05-21,-300.0
+Paytmqr5D7Y28 P,Transfers,Self/peer transfer,1,0.0,299.0,299.0,2025-06-11,2025-06-11,-299.0
+Khem Chand,Transfers,Self/peer transfer,6,0.0,298.0,49.67,2025-08-28,2026-02-18,-298.0
+Mr Mohd No,Transfers,Self/peer transfer,1,0.0,294.0,294.0,2025-11-28,2025-11-28,-294.0
+Kfc Omaxe,Food & Dining,Food delivery,1,0.0,293.0,293.0,2025-10-15,2025-10-15,-293.0
+Fresh Up,Transfers,Self/peer transfer,3,0.0,290.0,96.67,2025-12-27,2026-01-19,-290.0
+Nykaa Eret,Shopping,E-commerce,1,0.0,271.0,271.0,2025-10-08,2025-10-08,-271.0
+Billdeskpg.Appl,Transfers,Peer/self transfer,1,0.0,269.0,269.0,2025-06-16,2025-06-16,-269.0
+Mr Iqbal,Transfers,Self/peer transfer,1,0.0,268.0,268.0,2026-02-28,2026-02-28,-268.0
+Backup 1,Transfers,Self/peer transfer,1,0.0,261.0,261.0,2026-03-22,2026-03-22,-261.0
+Paytm.S10I2Iu P,Transfers,Self/peer transfer,1,0.0,260.0,260.0,2025-05-31,2025-05-31,-260.0
+Q299003563 Ybl,Transfers,Self/peer transfer,2,0.0,260.0,130.0,2025-06-04,2025-06-04,-260.0
+Sodexo Roo,Transfers,Self/peer transfer,2,0.0,240.0,120.0,2026-01-08,2026-01-09,-240.0
+Paytmqr6Eifqb P,Transfers,Self/peer transfer,2,0.0,240.0,120.0,2025-06-07,2025-06-07,-240.0
+Ridhima,Transfers,Self/peer transfer,1,0.0,230.0,230.0,2025-11-13,2025-11-13,-230.0
+Vyapar.17117413,Transfers,Self/peer transfer,1,0.0,230.0,230.0,2025-04-06,2025-04-06,-230.0
+Q139713113 Ybl,Transfers,Self/peer transfer,1,0.0,220.0,220.0,2025-05-16,2025-05-16,-220.0
+Q460242405 Ybl,Transfers,Self/peer transfer,1,0.0,220.0,220.0,2025-06-22,2025-06-22,-220.0
+Burgitos,Transfers,Self/peer transfer,1,0.0,218.0,218.0,2025-08-16,2025-08-16,-218.0
+Maa Siddha,Transfers,Peer/self transfer,1,0.0,216.0,216.0,2025-08-05,2025-08-05,-216.0
+Paytmqrvcx7M4U8,Transfers,Self/peer transfer,2,0.0,210.0,105.0,2025-06-24,2025-06-25,-210.0
+Paytmqr28100505,Transfers,Self/peer transfer,1,0.0,208.0,208.0,2025-06-05,2025-06-05,-208.0
+Utkal Hosp,Transfers,Self/peer transfer,1,0.0,206.0,206.0,2026-01-20,2026-01-20,-206.0
+Ekta Katar,Transfers,Self/peer transfer,1,0.0,201.0,201.0,2025-11-23,2025-11-23,-201.0
+Jay.Prakhas Ybl,Transfers,Self/peer transfer,1,0.0,200.0,200.0,2025-06-03,2025-06-03,-200.0
+Sarala Dev,Transfers,Self/peer transfer,1,0.0,200.0,200.0,2026-03-18,2026-03-18,-200.0
+Kalindi Ku,Transfers,Self/peer transfer,1,0.0,200.0,200.0,2025-11-23,2025-11-23,-200.0
+Mr Sridhar,Transfers,Self/peer transfer,2,0.0,200.0,100.0,2026-01-20,2026-01-24,-200.0
+Rihana,Transfers,Self/peer transfer,2,0.0,200.0,100.0,2026-02-23,2026-02-23,-200.0
+Paytmqr5Ee6Yn P,Transfers,Self/peer transfer,2,0.0,200.0,100.0,2025-06-21,2025-06-22,-200.0
+6370690773 Ybl,Transfers,Self/peer transfer,1,0.0,200.0,200.0,2025-06-03,2025-06-03,-200.0
+Payment For Gtz,Transfers,Peer/self transfer,1,0.0,200.0,200.0,2025-04-06,2025-04-06,-200.0
+Pradeep Ku,Transfers,Self/peer transfer,1,0.0,200.0,200.0,2026-03-14,2026-03-14,-200.0
+Nazmeen,Transfers,Self/peer transfer,1,0.0,200.0,200.0,2026-03-16,2026-03-16,-200.0
+Bellavita.96148,Transfers,Self/peer transfer,1,0.0,198.0,198.0,2025-05-21,2025-05-21,-198.0
+Ankit Kuma,Transfers,Self/peer transfer,1,0.0,194.0,194.0,2026-02-21,2026-02-21,-194.0
+Cafe Coffe,Food & Dining,Food delivery,1,0.0,194.0,194.0,2026-01-05,2026-01-05,-194.0
+Anand Fast,Transfers,Self/peer transfer,3,0.0,190.0,63.33,2025-11-06,2026-02-17,-190.0
+Vinod Shre,Transfers,Self/peer transfer,2,0.0,190.0,95.0,2025-11-17,2025-11-17,-190.0
+Binod Ku A,Transfers,Self/peer transfer,3,0.0,190.0,63.33,2025-06-25,2026-01-11,-190.0
+Q784056790 Ybl,Transfers,Self/peer transfer,1,0.0,190.0,190.0,2025-06-20,2025-06-20,-190.0
+Mrs Sarasw,Transfers,Self/peer transfer,3,0.0,180.0,60.0,2025-07-04,2025-12-27,-180.0
+Abdul Kala,Transfers,Self/peer transfer,1,0.0,180.0,180.0,2026-03-24,2026-03-24,-180.0
+Umesh Gupt,Transfers,Peer/self transfer,1,0.0,180.0,180.0,2025-10-13,2025-10-13,-180.0
+Laxmipriya,Transfers,Self/peer transfer,4,0.0,180.0,45.0,2025-12-12,2026-01-15,-180.0
+Sunil,Transfers,Peer/self transfer,1,0.0,172.0,172.0,2025-09-18,2025-09-18,-172.0
+Paytm-83876713,Transfers,Self/peer transfer,1,0.0,170.0,170.0,2025-04-15,2025-04-15,-170.0
+Ravinder K,Transfers,Self/peer transfer,2,0.0,170.0,85.0,2026-02-23,2026-03-16,-170.0
+Ramesh Cha,Transfers,Self/peer transfer,2,0.0,170.0,85.0,2025-12-16,2026-01-20,-170.0
+Mohd Akbar,Transfers,Self/peer transfer,3,0.0,170.0,56.67,2026-02-16,2026-03-21,-170.0
+Rambabu Pa,Transfers,Self/peer transfer,3,0.0,167.0,55.67,2025-08-28,2026-02-20,-167.0
+Parveen.Bhutani,Transfers,Peer/self transfer,1,0.0,162.0,162.0,2025-04-12,2025-04-12,-162.0
+Rita Sasma,Transfers,Self/peer transfer,2,0.0,160.0,80.0,2025-12-30,2026-01-04,-160.0
+Pradyumna,Transfers,Peer/self transfer,2,0.0,160.0,80.0,2025-12-23,2026-01-23,-160.0
+Paytm-82257353,Transfers,Self/peer transfer,1,0.0,155.0,155.0,2025-04-07,2025-04-07,-155.0
+Mrs Chandr,Transfers,Peer/self transfer,3,0.0,150.0,50.0,2025-07-04,2025-07-05,-150.0
+Dharmender,Transfers,Self/peer transfer,1,0.0,150.0,150.0,2025-09-08,2025-09-08,-150.0
+Rajiv,Transfers,Self/peer transfer,1,0.0,146.0,146.0,2025-09-13,2025-09-13,-146.0
+Muna Xerox,Transfers,Self/peer transfer,2,0.0,140.0,70.0,2025-07-09,2025-12-27,-140.0
+Archit Baj,Transfers,Self/peer transfer,1,0.0,140.0,140.0,2025-08-22,2025-08-22,-140.0
+Mr Govind,Transfers,Self/peer transfer,1,0.0,140.0,140.0,2025-08-20,2025-08-20,-140.0
+Mrs Sarita,Transfers,Self/peer transfer,5,0.0,130.0,26.0,2025-11-06,2026-02-24,-130.0
+Santosh Ku,Transfers,Self/peer transfer,1,0.0,130.0,130.0,2025-12-27,2025-12-27,-130.0
+Waris Moto,Transfers,Self/peer transfer,1,0.0,130.0,130.0,2025-12-23,2025-12-23,-130.0
+Shiva Gupt,Transfers,Peer/self transfer,1,0.0,130.0,130.0,2026-02-25,2026-02-25,-130.0
+Mohd Uvesh,Transfers,Self/peer transfer,1,0.0,130.0,130.0,2026-02-28,2026-02-28,-130.0
+Fresh Sign,Utilities,Telecom/Bills,2,0.0,129.0,64.5,2025-06-28,2025-07-06,-129.0
+14434 Apol,Transfers,Self/peer transfer,1,0.0,124.5,124.5,2026-01-07,2026-01-07,-124.5
+Bharatpe.900706,Transfers,Peer/self transfer,2,0.0,120.0,60.0,2025-06-04,2025-06-24,-120.0
+Bharatpe.9C0R0Z,Transfers,Peer/self transfer,1,0.0,120.0,120.0,2025-06-22,2025-06-22,-120.0
+9540832250 Ybl,Transfers,Self/peer transfer,1,0.0,118.0,118.0,2025-04-09,2025-04-09,-118.0
+Vijendra K,Transfers,Self/peer transfer,1,0.0,118.0,118.0,2025-09-20,2025-09-20,-118.0
+Ekram Alam,Transfers,Self/peer transfer,1,0.0,117.0,117.0,2025-11-23,2025-11-23,-117.0
+Amit Chauh,Transfers,Self/peer transfer,1,0.0,115.0,115.0,2026-03-16,2026-03-16,-115.0
+Sarika Sin,Transfers,Self/peer transfer,1,0.0,110.0,110.0,2026-02-16,2026-02-16,-110.0
+Ramas Stor,Transfers,Self/peer transfer,2,0.0,110.0,55.0,2025-08-21,2025-08-21,-110.0
+Rapido,Transfers,Self/peer transfer,3,0.0,109.0,36.33,2025-11-30,2026-02-23,-109.0
+Q926701253 Ybl,Transfers,Self/peer transfer,2,0.0,100.0,50.0,2025-06-19,2025-06-22,-100.0
+Saleem,Transfers,Self/peer transfer,1,0.0,100.0,100.0,2026-02-23,2026-02-23,-100.0
+9811261786 Ptax,Transfers,Self/peer transfer,1,0.0,100.0,100.0,2025-04-25,2025-04-25,-100.0
+Amita Stor,Transfers,Self/peer transfer,1,0.0,100.0,100.0,2025-11-14,2025-11-14,-100.0
+Sr2Ea737B9D927B,Transfers,Self/peer transfer,1,0.0,100.0,100.0,2025-04-28,2025-04-28,-100.0
+Sudhir Kha,Transfers,Self/peer transfer,1,0.0,100.0,100.0,2025-07-09,2025-07-09,-100.0
+Paytmqr6G7Ps3 P,Transfers,Self/peer transfer,1,0.0,100.0,100.0,2025-07-01,2025-07-01,-100.0
+Talib Khan,Transfers,Peer/self transfer,1,0.0,100.0,100.0,2026-02-23,2026-02-23,-100.0
+Vyapar.17164934,Transfers,Self/peer transfer,1,0.0,100.0,100.0,2025-07-02,2025-07-02,-100.0
+Talib Khan,Transfers,Self/peer transfer,1,0.0,100.0,100.0,2026-03-16,2026-03-16,-100.0
+Q308156424 Ybl,Transfers,Self/peer transfer,1,0.0,100.0,100.0,2025-06-03,2025-06-03,-100.0
+Paytm.S1Ep837 P,Transfers,Self/peer transfer,1,0.0,100.0,100.0,2025-05-31,2025-05-31,-100.0
+Papu Samal,Transfers,Self/peer transfer,1,0.0,100.0,100.0,2026-01-04,2026-01-04,-100.0
+Dinesh Yad,Transfers,Self/peer transfer,1,0.0,100.0,100.0,2026-02-07,2026-02-07,-100.0
+Paytmqr5D3Nzi P,Transfers,Self/peer transfer,1,0.0,95.0,95.0,2025-04-06,2025-04-06,-95.0
+Bhaskar Ba,Transfers,Self/peer transfer,1,0.0,90.0,90.0,2025-12-23,2025-12-23,-90.0
+Arvind Ray,Transfers,Self/peer transfer,3,0.0,90.0,30.0,2025-08-11,2025-09-23,-90.0
+Q916296980 Ybl,Transfers,Self/peer transfer,2,0.0,90.0,45.0,2025-06-14,2025-06-20,-90.0
+Shri Bhagw,Transfers,Self/peer transfer,1,0.0,90.0,90.0,2026-02-23,2026-02-23,-90.0
+Sonia,Transfers,Self/peer transfer,2,0.0,85.0,42.5,2025-11-25,2025-11-25,-85.0
+Maheswar P,Transfers,Self/peer transfer,1,0.0,84.0,84.0,2025-12-25,2025-12-25,-84.0
+Mrs Pinki,Transfers,Self/peer transfer,1,0.0,80.0,80.0,2026-02-24,2026-02-24,-80.0
+Mohd Ilyas,Transfers,Self/peer transfer,1,0.0,80.0,80.0,2026-02-16,2026-02-16,-80.0
+Mr Umesh K,Transfers,Self/peer transfer,1,0.0,80.0,80.0,2026-02-28,2026-02-28,-80.0
+Ravinder P,Transfers,Self/peer transfer,1,0.0,80.0,80.0,2025-08-20,2025-08-20,-80.0
+Q239727183 Ybl,Transfers,Self/peer transfer,1,0.0,80.0,80.0,2025-06-16,2025-06-16,-80.0
+Soni Gupta,Transfers,Self/peer transfer,1,0.0,80.0,80.0,2026-02-11,2026-02-11,-80.0
+Mo Salmaan,Transfers,Self/peer transfer,1,0.0,80.0,80.0,2026-02-16,2026-02-16,-80.0
+Yogesh Sha,Transfers,Self/peer transfer,1,0.0,80.0,80.0,2025-11-24,2025-11-24,-80.0
+Vinit Kuma,Transfers,Self/peer transfer,1,0.0,80.0,80.0,2026-02-07,2026-02-07,-80.0
+Bajrang En,Transfers,Self/peer transfer,1,0.0,79.0,79.0,2026-02-11,2026-02-11,-79.0
+Swasti.8596 Wah,Transfers,Self/peer transfer,2,0.0,72.0,36.0,2025-05-31,2025-06-10,-72.0
+Trilochana,Transfers,Self/peer transfer,1,0.0,70.0,70.0,2026-01-21,2026-01-21,-70.0
+Prmes98.07 Cmsi,Transfers,Self/peer transfer,1,0.0,70.0,70.0,2025-05-31,2025-05-31,-70.0
+Malati Sah,Transfers,Self/peer transfer,1,0.0,70.0,70.0,2025-07-09,2025-07-09,-70.0
+Paytm.S1Cvvw1 P,Transfers,Self/peer transfer,1,0.0,70.0,70.0,2025-05-05,2025-05-05,-70.0
+Paytmqr62Acd2 P,Transfers,Self/peer transfer,1,0.0,70.0,70.0,2025-05-05,2025-05-05,-70.0
+Mr Kimms,Transfers,Self/peer transfer,1,0.0,70.0,70.0,2026-03-29,2026-03-29,-70.0
+Q887136020 Ybl,Transfers,Self/peer transfer,1,0.0,70.0,70.0,2025-06-21,2025-06-21,-70.0
+Q565346111 Ybl,Transfers,Self/peer transfer,1,0.0,70.0,70.0,2025-06-21,2025-06-21,-70.0
+Q515512566 Ybl,Transfers,Self/peer transfer,1,0.0,70.0,70.0,2025-06-03,2025-06-03,-70.0
+Paytm-76881028,Transfers,Self/peer transfer,1,0.0,70.0,70.0,2025-05-30,2025-05-30,-70.0
+Bharatpe.900672,Transfers,Peer/self transfer,1,0.0,70.0,70.0,2025-06-19,2025-06-19,-70.0
+Gangadhar,Transfers,Self/peer transfer,1,0.0,70.0,70.0,2026-01-07,2026-01-07,-70.0
+96276Sp Ibl,Transfers,Self/peer transfer,1,0.0,65.0,65.0,2025-05-30,2025-05-30,-65.0
+Sony Sahoo,Transfers,Self/peer transfer,1,0.0,60.0,60.0,2025-12-16,2025-12-16,-60.0
+Bharatpe.9G0B0S,Transfers,Peer/self transfer,1,0.0,60.0,60.0,2025-06-30,2025-06-30,-60.0
+7008182763 Ibl,Transfers,Peer/self transfer,1,0.0,60.0,60.0,2025-06-10,2025-06-10,-60.0
+Kiit Hospi,Transfers,Self/peer transfer,2,0.0,60.0,30.0,2025-12-29,2025-12-29,-60.0
+Mr Ramesh,Transfers,Self/peer transfer,1,0.0,60.0,60.0,2025-12-17,2025-12-17,-60.0
+Satya Sund,Transfers,Self/peer transfer,1,0.0,60.0,60.0,2025-07-09,2025-07-09,-60.0
+Mr Otty Pu,Transfers,Peer/self transfer,1,0.0,60.0,60.0,2025-07-04,2025-07-04,-60.0
+Q363644856 Ybl,Transfers,Self/peer transfer,1,0.0,60.0,60.0,2025-06-21,2025-06-21,-60.0
+Muskan Ug,Transfers,Self/peer transfer,1,0.0,60.0,60.0,2026-03-16,2026-03-16,-60.0
+Devender S,Transfers,Self/peer transfer,1,0.0,60.0,60.0,2025-11-13,2025-11-13,-60.0
+Namashkar,Transfers,Self/peer transfer,1,0.0,58.0,58.0,2025-11-05,2025-11-05,-58.0
+Harish Kum,Transfers,Self/peer transfer,1,0.0,50.0,50.0,2026-02-28,2026-02-28,-50.0
+Mohammad J,Transfers,Self/peer transfer,1,0.0,50.0,50.0,2026-03-02,2026-03-02,-50.0
+Tapas Jena,Transfers,Peer/self transfer,1,0.0,50.0,50.0,2025-12-25,2025-12-25,-50.0
+Renu Bala,Transfers,Self/peer transfer,1,0.0,50.0,50.0,2025-11-25,2025-11-25,-50.0
+Paytmqr6Gel4Q P,Transfers,Self/peer transfer,1,0.0,50.0,50.0,2025-05-21,2025-05-21,-50.0
+Rajpal Sin,Transfers,Self/peer transfer,1,0.0,50.0,50.0,2026-02-24,2026-02-24,-50.0
+Mr Chhotu,Transfers,Self/peer transfer,1,0.0,50.0,50.0,2025-11-25,2025-11-25,-50.0
+Maa Bhuasu,Transfers,Self/peer transfer,1,0.0,50.0,50.0,2025-12-12,2025-12-12,-50.0
+New Delhi,Transfers,Self/peer transfer,1,0.0,50.0,50.0,2025-11-25,2025-11-25,-50.0
+Khurshid A,Transfers,Self/peer transfer,1,0.0,50.0,50.0,2026-02-23,2026-02-23,-50.0
+Keshab Cha,Transfers,Self/peer transfer,1,0.0,50.0,50.0,2025-07-07,2025-07-07,-50.0
+Bharatpe.900648,Transfers,Peer/self transfer,1,0.0,50.0,50.0,2025-06-27,2025-06-27,-50.0
+Kanak Sing,Transfers,Self/peer transfer,1,0.0,50.0,50.0,2026-02-07,2026-02-07,-50.0
+Q583020707 Ybl,Transfers,Self/peer transfer,1,0.0,50.0,50.0,2025-06-13,2025-06-13,-50.0
+Gurdeep Si,Transfers,Self/peer transfer,1,0.0,50.0,50.0,2025-11-24,2025-11-24,-50.0
+Behera Dah,Transfers,Self/peer transfer,1,0.0,50.0,50.0,2025-12-28,2025-12-28,-50.0
+Dinesh Kum,Transfers,Self/peer transfer,1,0.0,50.0,50.0,2026-02-20,2026-02-20,-50.0
+Paytmqr6Dytxw P,Transfers,Self/peer transfer,1,0.0,50.0,50.0,2025-05-05,2025-05-05,-50.0
+Irshad,Transfers,Self/peer transfer,1,0.0,50.0,50.0,2026-02-07,2026-02-07,-50.0
+Gaurav Raj,Transfers,Self/peer transfer,1,0.0,48.0,48.0,2026-02-20,2026-02-20,-48.0
+Bharatpe.9Q0W0U,Transfers,Peer/self transfer,1,0.0,42.0,42.0,2025-06-04,2025-06-04,-42.0
+Sankar Bis,Transfers,Self/peer transfer,1,0.0,40.0,40.0,2026-01-12,2026-01-12,-40.0
+Cosmofeed,Transfers,Self/peer transfer,1,0.0,40.0,40.0,2026-03-31,2026-03-31,-40.0
+Sudhir Kum,Transfers,Self/peer transfer,1,0.0,40.0,40.0,2026-01-05,2026-01-05,-40.0
+Dhananjay,Transfers,Self/peer transfer,1,0.0,40.0,40.0,2025-10-15,2025-10-15,-40.0
+Maninder S,Transfers,Self/peer transfer,2,0.0,40.0,20.0,2026-03-29,2026-03-30,-40.0
+Paytmqr61N5Gu P,Transfers,Self/peer transfer,1,0.0,40.0,40.0,2025-07-02,2025-07-02,-40.0
+Aone Shahi,Transfers,Self/peer transfer,1,0.0,40.0,40.0,2025-11-13,2025-11-13,-40.0
+Q111198269 Ybl,Transfers,Self/peer transfer,1,0.0,40.0,40.0,2025-06-22,2025-06-22,-40.0
+Paytmqr5Cqwte P,Transfers,Self/peer transfer,1,0.0,40.0,40.0,2025-06-15,2025-06-15,-40.0
+Paytmqr5Zho91 P,Transfers,Self/peer transfer,1,0.0,40.0,40.0,2025-04-07,2025-04-07,-40.0
+Mishra.Swasti26,Transfers,Peer/self transfer,1,0.0,36.0,36.0,2025-05-14,2025-05-14,-36.0
+Bablu Yada,Transfers,Self/peer transfer,1,0.0,36.0,36.0,2026-02-27,2026-02-27,-36.0
+Akshita Ag,Transfers,Self/peer transfer,1,0.0,35.0,35.0,2025-12-14,2025-12-14,-35.0
+9635912402 Ibl,Transfers,Self/peer transfer,1,0.0,30.0,30.0,2025-06-05,2025-06-05,-30.0
+Paytmqr6Ctf6K P,Transfers,Self/peer transfer,1,0.0,30.0,30.0,2025-05-21,2025-05-21,-30.0
+Bhagaban B,Transfers,Self/peer transfer,1,0.0,30.0,30.0,2025-12-25,2025-12-25,-30.0
+Q274705907 Ybl,Transfers,Self/peer transfer,1,0.0,30.0,30.0,2025-06-06,2025-06-06,-30.0
+Q733610753 Ybl,Transfers,Self/peer transfer,1,0.0,30.0,30.0,2025-06-01,2025-06-01,-30.0
+Paytmqr6Eeqnw P,Transfers,Self/peer transfer,1,0.0,30.0,30.0,2025-06-23,2025-06-23,-30.0
+Sai Delica,Transfers,Self/peer transfer,1,0.0,30.0,30.0,2026-01-29,2026-01-29,-30.0
+Jayanta Pa,Transfers,Peer/self transfer,1,0.0,30.0,30.0,2025-12-21,2025-12-21,-30.0
+Sudhanshu,Transfers,Self/peer transfer,1,0.0,30.0,30.0,2025-12-29,2025-12-29,-30.0
+Bharatpe9V0J7Z2,Transfers,Peer/self transfer,1,0.0,30.0,30.0,2025-06-19,2025-06-19,-30.0
+Rajesh Kum,Transfers,Self/peer transfer,1,0.0,30.0,30.0,2026-02-23,2026-02-23,-30.0
+Dtctkt.Zkp Icic,Transfers,Peer/self transfer,1,0.0,22.85,22.85,2025-05-26,2025-05-26,-22.85
+Prakash,Transfers,Self/peer transfer,1,0.0,21.0,21.0,2025-08-14,2025-08-14,-21.0
+Q419129077 Ybl,Transfers,Self/peer transfer,1,0.0,20.0,20.0,2025-06-07,2025-06-07,-20.0
+Hare Krish,Transfers,Self/peer transfer,1,0.0,20.0,20.0,2025-11-12,2025-11-12,-20.0
+Pinky Hald,Transfers,Self/peer transfer,1,0.0,20.0,20.0,2026-02-23,2026-02-23,-20.0
+Hedar Miya,Transfers,Self/peer transfer,1,0.0,20.0,20.0,2025-11-30,2025-11-30,-20.0
+Vimal Sahn,Transfers,Self/peer transfer,1,0.0,20.0,20.0,2026-03-18,2026-03-18,-20.0
+Gaurav,Transfers,Self/peer transfer,1,0.0,20.0,20.0,2025-11-25,2025-11-25,-20.0
+Shyam Stor,Transfers,Self/peer transfer,1,0.0,20.0,20.0,2026-02-20,2026-02-20,-20.0
+Nilamadhab,Transfers,Self/peer transfer,1,0.0,20.0,20.0,2025-07-04,2025-07-04,-20.0
+Hasib,Transfers,Self/peer transfer,1,0.0,20.0,20.0,2025-09-28,2025-09-28,-20.0
+Q366650506 Ybl,Transfers,Self/peer transfer,1,0.0,20.0,20.0,2025-06-19,2025-06-19,-20.0
+Mr Sekh Go,Transfers,Self/peer transfer,1,0.0,20.0,20.0,2026-03-29,2026-03-29,-20.0
+Kamlesh,Transfers,Self/peer transfer,1,0.0,20.0,20.0,2026-02-23,2026-02-23,-20.0
+Raju,Transfers,Self/peer transfer,1,0.0,20.0,20.0,2026-02-26,2026-02-26,-20.0
+Raja Kumar,Transfers,Self/peer transfer,1,0.0,20.0,20.0,2026-03-18,2026-03-18,-20.0
+Lipun Tea,Transfers,Self/peer transfer,1,0.0,20.0,20.0,2025-08-07,2025-08-07,-20.0
+Kudumbashr,Transfers,Self/peer transfer,1,0.0,20.0,20.0,2025-09-08,2025-09-08,-20.0
+Mr Ravi Ku,Utilities,Telecom/Bills,1,0.0,20.0,20.0,2026-03-16,2026-03-16,-20.0
+68597001 Ubin,Transfers,Self/peer transfer,1,0.0,20.0,20.0,2025-06-07,2025-06-07,-20.0
+Falguni Ba,Transfers,Peer/self transfer,1,0.0,20.0,20.0,2025-07-04,2025-07-04,-20.0
+Jitendergu,Transfers,Self/peer transfer,1,0.0,20.0,20.0,2026-03-16,2026-03-16,-20.0
+Anup Kumar,Transfers,Self/peer transfer,1,0.0,10.0,10.0,2026-03-25,2026-03-25,-10.0
+Rajvardhan,Transfers,Self/peer transfer,1,0.0,10.0,10.0,2026-02-23,2026-02-23,-10.0
+Krushna Ch,Transfers,Self/peer transfer,1,0.0,10.0,10.0,2025-08-04,2025-08-04,-10.0
+Muskan,Transfers,Self/peer transfer,1,0.0,10.0,10.0,2026-02-23,2026-02-23,-10.0
+Tapayanroy73 Ok,Transfers,Self/peer transfer,1,0.0,5.0,5.0,2025-06-15,2025-06-15,-5.0
+Ekta Gupta,Utilities,Telecom/Bills,1,0.0,5.0,5.0,2025-11-29,2025-11-29,-5.0
+Paytm.S1789Nb P,Transfers,Self/peer transfer,1,0.0,5.0,5.0,2025-06-23,2025-06-23,-5.0
+Bil,Transfers,Incoming transfer,7,88400.0,0.0,0.0,2025-04-30,2025-12-31,88400.0
+Zomato,Refunds,Refund/Cashback,2,1341.22,0.0,0.0,2025-05-14,2026-02-18,1341.22
+Tdbhavini Okici,Transfers,Incoming transfer,1,500.0,0.0,0.0,2025-06-09,2025-06-09,500.0
+Pradosh Ku,Transfers,Incoming transfer,38,108783.0,0.0,0.0,2025-07-04,2026-03-24,108783.0
+9310379979 Upi,Transfers,Incoming transfer,1,45.0,0.0,0.0,2025-05-28,2025-05-28,45.0
+Pay By Whatsapp,Transfers,Incoming transfer,79,43758.0,0.0,0.0,2025-04-01,2025-07-02,43758.0
+CRED,Transfers,Incoming transfer,2,320.0,0.0,0.0,2025-04-27,2025-05-31,320.0
+Phonepe,Transfers,Incoming transfer,1,200.0,0.0,0.0,2025-09-03,2025-09-03,200.0
+Deepak Aji,Transfers,Incoming transfer,1,600.0,0.0,0.0,2025-07-15,2025-07-15,600.0
+Aniket Sha,Transfers,Incoming transfer,1,284.0,0.0,0.0,2025-07-19,2025-07-19,284.0
+Zepto,Transfers,Incoming transfer,1,74.0,0.0,0.0,2026-02-08,2026-02-08,74.0
+D Abhishek,Transfers,Incoming transfer,230,158434.71,0.0,0.0,2025-06-27,2026-03-31,158434.71
+D.Abhishek1010,Transfers,Incoming transfer,78,58585.55,0.0,0.0,2025-04-03,2025-07-03,58585.55
+7008391510 Axl,Transfers,Incoming transfer,1,500.0,0.0,0.0,2025-05-31,2025-05-31,500.0
+Cash Deposit,Transfers,Incoming transfer,20,58800.0,0.0,0.0,2025-10-05,2026-03-29,58800.0
+Wrogn,Transfers,Incoming transfer,1,1216.28,0.0,0.0,2025-11-26,2025-11-26,1216.28
+Bhavini De,Transfers,Incoming transfer,7,4173.0,0.0,0.0,2025-08-14,2026-02-18,4173.0
+Neft-Citin52025042955535680-Paypal Payments P,Transfers,Incoming transfer,1,1.12,0.0,0.0,2025-04-29,2025-04-29,1.12
+9437067700 Ibl,Transfers,Incoming transfer,17,54698.0,0.0,0.0,2025-04-10,2025-06-30,54698.0
+Swiggy,Transfers,Incoming transfer,2,791.0,0.0,0.0,2025-08-12,2026-03-30,791.0
+Minuminati.Sbp,Transfers,Incoming transfer,2,50750.0,0.0,0.0,2025-05-19,2025-06-07,50750.0
+Amazon,Refunds,Refund/Cashback,1,284.0,0.0,0.0,2025-07-25,2025-07-25,284.0
+Rvsld Abhi,Transfers,Incoming transfer,1,500.0,0.0,0.0,2025-08-04,2025-08-04,500.0
+Rvslparveen.Bhutani,Transfers,Incoming transfer,1,162.0,0.0,0.0,2025-04-12,2025-04-12,162.0
+Amazon,Transfers,Incoming transfer,1,3240.0,0.0,0.0,2025-04-29,2025-04-29,3240.0
+Aditi Sinh,Transfers,Incoming transfer,1,275.0,0.0,0.0,2025-08-27,2025-08-27,275.0
+Samresh Ma,Transfers,Incoming transfer,9,5820.0,0.0,0.0,2025-08-05,2026-02-28,5820.0
+Radhamani,Transfers,Incoming transfer,1,2383.55,0.0,0.0,2025-11-28,2025-11-28,2383.55
+Mr D Abhis,Transfers,Incoming transfer,74,13184.58,0.0,0.0,2025-06-28,2026-03-22,13184.58
+Jeevan Dee,Transfers,Incoming transfer,167,121339.0,0.0,0.0,2025-06-28,2026-03-31,121339.0
+Abhishek401 Slc,Transfers,Incoming transfer,28,12818.19,0.0,0.0,2025-04-01,2025-06-15,12818.19
+Indian Railways,Transfers,Incoming transfer,1,355.0,0.0,0.0,2025-05-20,2025-05-20,355.0
+NPCI/BHIM,Refunds,Refund/Cashback,34,188.0,0.0,0.0,2025-05-20,2026-03-17,188.0
+ICICI Interest,Investments/FD,Interest income,4,329.0,0.0,0.0,2025-06-30,2026-03-30,329.0
+Na,Transfers,Incoming transfer,2,310.0,0.0,0.0,2025-04-04,2025-05-04,310.0
+Priyankapn,Transfers,Incoming transfer,12,1147.0,0.0,0.0,2025-09-05,2025-11-11,1147.0
+Neel Bhave,Transfers,Incoming transfer,4,1980.0,0.0,0.0,2025-11-22,2026-03-25,1980.0
+Akashra,Transfers,Incoming transfer,1,10.0,0.0,0.0,2026-02-10,2026-02-10,10.0
+Neft-Citin52025042955536561-Paypal Payments P,Transfers,Incoming transfer,1,1.08,0.0,0.0,2025-04-29,2025-04-29,1.08
+Subid.9999-1 Ok,Transfers,Incoming transfer,1,34.0,0.0,0.0,2025-05-19,2025-05-19,34.0
+Preeti.401 Ybl,Transfers,Incoming transfer,3,1100.0,0.0,0.0,2025-06-03,2025-06-22,1100.0
+Preeti.401 Ibl,Transfers,Incoming transfer,1,181.0,0.0,0.0,2025-06-23,2025-06-23,181.0
+Anita Maha,Transfers,Incoming transfer,36,39313.0,0.0,0.0,2025-07-06,2026-01-29,39313.0
+Swasti Mis,Transfers,Incoming transfer,9,884.0,0.0,0.0,2025-08-01,2026-03-01,884.0
+Preeti.401 Axl,Transfers,Incoming transfer,5,3722.0,0.0,0.0,2025-04-25,2025-06-30,3722.0
+Prasad B,Transfers,Incoming transfer,1,2520.0,0.0,0.0,2025-12-02,2025-12-02,2520.0
+Swiggy,Refunds,Refund/Cashback,2,168.0,0.0,0.0,2025-08-24,2026-03-25,168.0
+Rvslaniket,Transfers,Incoming transfer,2,568.0,0.0,0.0,2025-07-25,2025-07-25,568.0
